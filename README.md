@@ -5,7 +5,6 @@
 [![](https://img.shields.io/badge/-MehdiHadizadeh-dimgray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mehdyo)
 
 - 🚀 I’m web developer
-- 🔭 I’m currently working with ASP.NET And Angular; 
-- 🌱 I’m currently learning ASP.NET Core And JavaScript;
+- 🔭 I’m currently working with Angular; 
 - 📫 How to reach me:  [Telegram](https://t.me/Mehdyo)
 
