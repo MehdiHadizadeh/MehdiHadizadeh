@@ -12,17 +12,3 @@ I am a frontend web developer focused on building **reliable, maintainable, and 
 My primary expertise is in **Angular**, where I work on structured, scalable solutions with clear architecture and clean code.
 
 I enjoy creating **practical tools and browser extensions** that address real-world needs, with an emphasis on usability, performance, and long-term maintainability.
-
-## Technical Focus
-
-- Designing and building scalable Angular applications  
-- Writing clean, maintainable code with TypeScript  
-- Applying proven Angular patterns and best practices  
-- Developing browser extensions and productivity-oriented tools  
-
-## Connect With Me
-
-Feel free to reach out for collaboration, questions, or just to connect!
-
-- Email: **mehdihadizadeh.k@gmail.com**
-- LinkedIn: [Mehdi Hadizadeh](https://www.linkedin.com/in/mehdi-hadizadeh/)
