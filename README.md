@@ -1,10 +1,28 @@
-# Hi there, I’m Mehdi 👋
+# Mehdi Hadizadeh
 
-[![](https://img.shields.io/badge/-mehdihadizadeh.k@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mehdihadizadeh.k@gmail.com)
-[![](https://img.shields.io/badge/-MehdiHadizadeh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-hadizadeh/)
-[![](https://img.shields.io/badge/-MehdiHadizadeh-dimgray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mehdyooo)
+**Frontend Web Developer** | Angular Specialist
 
-- 🚀 I’m web developer
-- 🔭 I’m currently working with Angular; 
-- 📫 How to reach me:  [Telegram](https://t.me/Mehdyooo)
+[![Email](https://img.shields.io/badge/-mehdihadizadeh.k@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mehdihadizadeh.k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-MehdiHadizadeh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-hadizadeh/)
+[![Website](https://img.shields.io/badge/-mehdihadizadeh.ir-000000?style=flat&logo=Google-Chrome&logoColor=white)](http://mehdihadizadeh.ir/)
 
+## About Me
+
+I am a frontend web developer focused on building **reliable, maintainable, and user-focused web applications**.  
+My primary expertise is in **Angular**, where I work on structured, scalable solutions with clear architecture and clean code.
+
+I enjoy creating **practical tools and browser extensions** that address real-world needs, with an emphasis on usability, performance, and long-term maintainability.
+
+## Technical Focus
+
+- Designing and building scalable Angular applications  
+- Writing clean, maintainable code with TypeScript  
+- Applying proven Angular patterns and best practices  
+- Developing browser extensions and productivity-oriented tools  
+
+## Connect With Me
+
+Feel free to reach out for collaboration, questions, or just to connect!
+
+- Email: **mehdihadizadeh.k@gmail.com**
+- LinkedIn: [Mehdi Hadizadeh](https://www.linkedin.com/in/mehdi-hadizadeh/)
